@@ -1,5 +1,5 @@
 {
-    "python.pythonPath": "/Users/gcaruso/.virtualenvs/my_site/bin/python",
+    "python.pythonPath": "/Users/gcaruso/.virtualenvs/my_site-yu9WqSct/bin/python",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
     "files.associations": {
